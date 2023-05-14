@@ -12,10 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tamilkannancv" target="blank"><img align="center" src="images/icons/Social/twitter.svg" alt="tamilkannancv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tamilkannancv" target="blank"><img align="center" src="images/icons/Social/linked-in-alt.svg" alt="tamilkannancv" height="30" width="40" /></a>
-<a href="https://medium.com/@tamilkannancv" target="blank"><img align="center" src="images/icons/Social/medium.svg" alt="@tamilkannancv" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@theflutterblue" target="blank"><img align="center" src="images/icons/Social/youtube.svg" alt="@theflutterblue" height="30" width="40" /></a>
+<a href="https://twitter.com/tamilkannancv" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="tamilkannancv"  /></a>
+<a href="https://linkedin.com/in/tamilkannancv" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="tamilkannancv" /></a>
+<a href="https://medium.com/@tamilkannancv" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@tamilkannancv"  /></a>
+<a href="https://www.youtube.com/c/@theflutterblue" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="@theflutterblue"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
