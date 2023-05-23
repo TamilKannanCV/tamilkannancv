@@ -8,10 +8,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Functional programming in Flutter](https://tamilkannancv.medium.com/functional-programming-in-flutter-75b950647bd5?source=rss-9d3af0d8d97d------2)
 - [Retrofit in Flutter](https://tamilkannancv.medium.com/retrofit-in-flutter-1e2feb58c71a?source=rss-9d3af0d8d97d------2)
 - [Multithreading in Flutter using Flutter isolates](https://tamilkannancv.medium.com/multithreading-in-flutter-using-flutter-isolates-e3abe1ab29f4?source=rss-9d3af0d8d97d------2)
 - [Flutter databases and Hive](https://tamilkannancv.medium.com/flutter-databases-and-hive-79c9d28767?source=rss-9d3af0d8d97d------2)
-- [A different way to use assets in Flutter](https://tamilkannancv.medium.com/a-different-way-to-use-assets-in-flutter-d81f4a5966d0?source=rss-9d3af0d8d97d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
