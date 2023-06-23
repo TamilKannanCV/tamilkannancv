@@ -8,10 +8,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Which one should you use Shared Preferences or Hive?](https://tamilkannancv.medium.com/which-one-should-you-use-shared-preferences-or-hive-ef3e4f2773eb?source=rss-9d3af0d8d97d------2)
 - [Functional programming in Flutter](https://tamilkannancv.medium.com/functional-programming-in-flutter-75b950647bd5?source=rss-9d3af0d8d97d------2)
 - [Retrofit in Flutter](https://tamilkannancv.medium.com/retrofit-in-flutter-1e2feb58c71a?source=rss-9d3af0d8d97d------2)
 - [Multithreading in Flutter using Flutter isolates](https://tamilkannancv.medium.com/multithreading-in-flutter-using-flutter-isolates-e3abe1ab29f4?source=rss-9d3af0d8d97d------2)
-- [Flutter databases and Hive](https://tamilkannancv.medium.com/flutter-databases-and-hive-79c9d28767?source=rss-9d3af0d8d97d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
