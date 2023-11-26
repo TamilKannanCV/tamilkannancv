@@ -31,6 +31,6 @@
 
 ### Leetcode
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=tamilkannan)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=tamilkannan)](https://leetcode.com/tamilkannan/)
 
 
