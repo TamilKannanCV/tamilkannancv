@@ -29,5 +29,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamilkannancv&show_icons=true&locale=en" alt="tamilkannancv" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamilkannancv&" alt="tamilkannancv" /></p>
+### Leetcode
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=tamilkannan)](https://github.com/KnlnKS/leetcode-stats)
+
 
