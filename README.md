@@ -8,10 +8,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Unpacking the AI Brain: Why Understanding “How” Matters More Than Just “What”](https://tamilkannancv.medium.com/unpacking-the-ai-brain-why-understanding-how-matters-more-than-just-what-39b6be385fb1?source=rss-9d3af0d8d97d------2)
 - [A Helping Hand for Heroes: How AI is Supporting Career Transitions](https://tamilkannancv.medium.com/a-helping-hand-for-heroes-how-ai-is-supporting-career-transitions-5e842fc88595?source=rss-9d3af0d8d97d------2)
 - [Which one should you use Shared Preferences or Hive?](https://tamilkannancv.medium.com/which-one-should-you-use-shared-preferences-or-hive-ef3e4f2773eb?source=rss-9d3af0d8d97d------2)
 - [Functional programming in Flutter](https://tamilkannancv.medium.com/functional-programming-in-flutter-75b950647bd5?source=rss-9d3af0d8d97d------2)
-- [Retrofit in Flutter](https://tamilkannancv.medium.com/retrofit-in-flutter-1e2feb58c71a?source=rss-9d3af0d8d97d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
